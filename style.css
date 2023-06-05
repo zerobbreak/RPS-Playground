@@ -1,0 +1,39 @@
+.result{
+    margin-bottom: 10px;
+}
+
+.choices{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+body{
+    background-color: rgb(103, 100, 100);
+}
+
+h1{
+    text-align: center;
+    font-size: 1.9em;
+}
+
+#score{
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.result{
+    text-align: center;
+    margin: 20px;
+}
+
+button{
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
